@@ -1,6 +1,6 @@
 # CFE-UNet
 Our network structure is shown in the figure
-![CFE-UNet](docs/DAC-Net.png)
+![CFE-UNet](Fig/Fig1.jpg)
 
 
 ## Main Environments
