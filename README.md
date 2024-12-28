@@ -1,5 +1,5 @@
 # CFE-UNet
-Our network structure is shown in the figure
+Our network structure is shown in the figure.
 ![CFE-UNet](Fig/Fig1.jpg)
 
 
